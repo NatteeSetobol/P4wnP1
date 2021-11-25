@@ -1,10 +1,14 @@
 P4wnP1 by MaMe82
 ================
-***** Update gpg key
-wget 'https://archive.kali.org/archive-key.asc' --no-check-certificate
-apt-key add archive-key.asc
+
 
 P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor).
+
+***** Update gpg key
+
+wget 'https://archive.kali.org/archive-key.asc' --no-check-certificate
+
+apt-key add archive-key.asc
 
 Important
 ---------
