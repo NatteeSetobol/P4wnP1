@@ -4,6 +4,8 @@ P4wnP1 by MaMe82
 
 P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor).
 
+**get this :** https://github.com/mame82/P4wnP1_aloa
+
 ***** Update gpg key
 
 wget 'https://archive.kali.org/archive-key.asc' --no-check-certificate
